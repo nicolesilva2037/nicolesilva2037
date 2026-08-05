@@ -20,20 +20,7 @@ Neste perfil compartilho projetos desenvolvidos durante meus estudos, desafios p
 ### Back-end
 
 * Python (em aprendizado)
-
-### Banco de Dados
-
-* SQL
-* MySQL
-
-### Ferramentas
-
-* Git
-* GitHub
-* VS Code
-* Figma
-
----
+* PHP (em aprendizado)
 
 ## 📚 Atualmente estudando
 
@@ -51,11 +38,9 @@ Neste perfil compartilho projetos desenvolvidos durante meus estudos, desafios p
 
 Aqui você encontrará projetos desenvolvidos ao longo da minha jornada de aprendizado, incluindo:
 
-* Landing Pages responsivas
 * Aplicações utilizando JavaScript
 * Projetos em React
 * Exercícios práticos
-* Sistemas Web
 
 À medida que evoluo, novos projetos serão publicados e os existentes receberão melhorias.
 
