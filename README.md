@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Olá! Meu nome é Nicole Silva
 
-<!--
-**nicolesilva2037/nicolesilva2037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou estudante do curso **Técnico em Informática para Internet** na instituição **Senac Taubaté**.
 
-Here are some ideas to get you started:
+Sou apaixonada por tecnologia e desenvolvimento web. Atualmente estou aprofundando meus conhecimentos em **Front-end** e iniciando meus estudos em **Back-end**, sempre buscando criar aplicações organizadas, responsivas e intuitivas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Neste perfil compartilho projetos desenvolvidos durante meus estudos, desafios pessoais e experimentos com novas tecnologias. Meu objetivo é evoluir constantemente e conquistar minha primeira oportunidade na área de desenvolvimento.
+
+---
+
+## 🚀 Tecnologias
+
+### Front-end
+
+* HTML
+* CSS
+* JavaScript
+* React (em aprendizado)
+
+### Back-end
+
+* Python (em aprendizado)
+
+### Banco de Dados
+
+* SQL
+* MySQL
+
+### Ferramentas
+
+* Git
+* GitHub
+* VS Code
+* Figma
+
+---
+
+## 📚 Atualmente estudando
+
+* Desenvolvimento Web
+* Python
+* React
+* APIs REST
+* Banco de Dados
+* Boas práticas de desenvolvimento
+* Versionamento com Git
+
+---
+
+## 📂 Projetos
+
+Aqui você encontrará projetos desenvolvidos ao longo da minha jornada de aprendizado, incluindo:
+
+* Landing Pages responsivas
+* Aplicações utilizando JavaScript
+* Projetos em React
+* Exercícios práticos
+* Sistemas Web
+
+À medida que evoluo, novos projetos serão publicados e os existentes receberão melhorias.
+
+---
+
+## 🎯 Objetivos
+
+* Desenvolver aplicações web modernas e responsivas.
+* Aprimorar conhecimentos em Front-end e Back-end.
+* Construir um portfólio sólido.
+* Conquistar uma oportunidade como Desenvolvedora Web.
+
+---
+
+## 📈 Atualmente
+
+* 🎓 Cursando Técnico em Informática para Internet.
+* 📖 Estudando Python.
+* 🌐 Aprimorando meus conhecimentos em Desenvolvimento Web.
+* 💡 Desenvolvendo projetos para fortalecer meu portfólio.
+
+---
+
+## 📫 Contato
+
+* LinkedIn: https://www.linkedin.com/in/nicole-silva-1256b4304
+* E-mail: nicole.silvagg@outlook.com
+
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedora.
